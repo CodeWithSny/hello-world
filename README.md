@@ -1,9 +1,8 @@
-# hello-world
-First github repo
+# hello-world in c programming
 
-Hi All,
-
-My name is Harsh Sabikhi and I am new to GitHub!
-
-Regards,
-Harsh
+#include<stdio.h>
+int main()
+{
+printf("Hello world!\n");
+return 0;
+}
